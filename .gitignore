@@ -1,0 +1,11 @@
+*.pyc  
+__pycache__/  
+*.pyo  
+*.pyd  
+
+
+decrypted.txt  
+encrypted_with_rsa.bin  
+private_key.pem  
+public_key.pem  
+time_record.txt
